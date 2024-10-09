@@ -1,0 +1,17 @@
+C:\Users\Peace\Desktop\W5.Clock\bin\Debug\net6.0-windows\W5.Clock.exe
+C:\Users\Peace\Desktop\W5.Clock\bin\Debug\net6.0-windows\W5.Clock.deps.json
+C:\Users\Peace\Desktop\W5.Clock\bin\Debug\net6.0-windows\W5.Clock.runtimeconfig.json
+C:\Users\Peace\Desktop\W5.Clock\bin\Debug\net6.0-windows\W5.Clock.dll
+C:\Users\Peace\Desktop\W5.Clock\bin\Debug\net6.0-windows\W5.Clock.pdb
+C:\Users\Peace\Desktop\W5.Clock\obj\Debug\net6.0-windows\W5.Clock.csproj.AssemblyReference.cache
+C:\Users\Peace\Desktop\W5.Clock\obj\Debug\net6.0-windows\W5.Clock.Form1.resources
+C:\Users\Peace\Desktop\W5.Clock\obj\Debug\net6.0-windows\W5.Clock.csproj.GenerateResource.cache
+C:\Users\Peace\Desktop\W5.Clock\obj\Debug\net6.0-windows\W5.Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peace\Desktop\W5.Clock\obj\Debug\net6.0-windows\W5.Clock.AssemblyInfoInputs.cache
+C:\Users\Peace\Desktop\W5.Clock\obj\Debug\net6.0-windows\W5.Clock.AssemblyInfo.cs
+C:\Users\Peace\Desktop\W5.Clock\obj\Debug\net6.0-windows\W5.Clock.csproj.CoreCompileInputs.cache
+C:\Users\Peace\Desktop\W5.Clock\obj\Debug\net6.0-windows\W5.Clock.dll
+C:\Users\Peace\Desktop\W5.Clock\obj\Debug\net6.0-windows\refint\W5.Clock.dll
+C:\Users\Peace\Desktop\W5.Clock\obj\Debug\net6.0-windows\W5.Clock.pdb
+C:\Users\Peace\Desktop\W5.Clock\obj\Debug\net6.0-windows\W5.Clock.genruntimeconfig.cache
+C:\Users\Peace\Desktop\W5.Clock\obj\Debug\net6.0-windows\ref\W5.Clock.dll
